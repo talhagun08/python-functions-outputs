@@ -1,2 +1,2 @@
 # python-functions-outputs
-My Python Way
+i am new at the python. This is my first function projects.
